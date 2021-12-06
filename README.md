@@ -10,7 +10,7 @@ python3 main.py
 
 ## Usage
 
-```json
+```
 Con qué deseas interactuar? O a donde quieres ir? > 0
 
 
