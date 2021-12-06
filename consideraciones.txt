@@ -1,0 +1,40 @@
+Casa
+    Living
+    Cocina
+    Habitacion
+    Baño
+
+Mueble
+    Futon
+    Biblioteca
+    Cama
+    Bajo Mesada
+    Piedras
+    Comedero
+    Mueble Blanco
+    Cajonera
+    Ducha
+    Inodoro
+
+Gatos
+    Axl
+    Cucu
+
+Verbo
+    Buscar
+    Agarrar
+    Abrir
+    Cerrar
+    Dar de comer
+
+Objetos
+    Llaves
+    Comida Gatos
+    Mate
+    Yerba
+    Libros
+    Heladera
+    Morral
+    Mochila
+
+

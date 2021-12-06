@@ -1,0 +1,3 @@
+from clases import *
+
+StartGame()
